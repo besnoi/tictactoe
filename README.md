@@ -6,7 +6,7 @@ And if I didn't say this before then *the AI is unbeatable*!!
 See the screenshots for yourselves
 
 <p align="center">
-<a href="https://github.com/YoungNeer/ping-pong/blob/master/screenshots/main.png"><img src="https://github.com/YoungNeer/ping-pong/blob/master/screenshots/main.png"/></a><br>
+<a href="screenshots/mainScreen.png"><img src="screenshots/mainScreen.png"/></a><br>
   <span style="align:center">A look of the game (<i>For more see <a href="screenshots">screenshots</a></i>)</span>
 </p>
 
